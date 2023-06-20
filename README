@@ -1,0 +1,12 @@
+Ig3D Project : Second-Depth Shadow Mapping
+Yona MELLUL, 3800646
+
+Requirements: pygame, moderngl, PyGLM, pywavefront
+
+To run the program: >> python main.py
+
+To navigate the window:
+- Use the four arrows to go up, down, right and left.
+- Use the f key to go forward
+- Use the b key to go backwords
+- Use the mouse (or touchpad) to rotate
